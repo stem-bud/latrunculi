@@ -30,7 +30,7 @@ like this
 
 ## playing:
 
-play the game at: HTTP://latronesonline.com
+play the game at: http://latronesonline.com
 
 find a friend, 
 click on Create New Game, a generated code will be returned to you. Your friend should enter the code you were given, and click join.
